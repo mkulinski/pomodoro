@@ -1,0 +1,21 @@
+body {
+    padding: 50px;
+}
+h1 {
+    margin-bottom: 100px;
+    font-family: opensans, sans-serif;
+    font-weight: 700;
+}
+
+.clock{
+    width: 34%;
+    margin: 0 auto;
+}
+
+.plus-minus{
+    margin-top: 30px;
+}
+
+.start-stop{
+    margin-top: 70px;
+}
